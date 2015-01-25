@@ -1,0 +1,17 @@
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/bin/Debug/Magic8BallAndroid.dll.mdb
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/bin/Debug/Magic8BallAndroid.dll
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/bin/Debug/Magic8BallAndroid.Magic8BallAndroid.apk
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/android/bin/Magic8BallAndroid.Magic8BallAndroid.apk
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/res/layout/main.xml
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/res/values/strings.xml
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/res/drawable-mdpi/icon.png
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/R.cs.flag
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/bin/Debug/Magic8BallAndroid.Magic8BallAndroid-Signed.apk
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/uploadflags.txt
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/Magic8BallAndroid.dll
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/Magic8BallAndroid.dll.mdb
