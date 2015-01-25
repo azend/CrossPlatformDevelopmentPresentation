@@ -9,6 +9,6 @@
     <Import_RootNamespace>Magic8Ball</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)MyClass.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Magic8Ball.cs" />
   </ItemGroup>
 </Project>
