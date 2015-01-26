@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Magic8Ball", "Magic8Ball\Magic8Ball.shproj", "{4D51A1F4-1DB8-4098-8AD7-42A7BCD22EF6}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Magic8BallShared", "Magic8Ball\Magic8BallShared.shproj", "{4D51A1F4-1DB8-4098-8AD7-42A7BCD22EF6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic8BallAndroid", "Magic8BallAndroid\Magic8BallAndroid.csproj", "{EDF1099D-F5FC-4775-BBAE-23C8E7E13BAB}"
 EndProject

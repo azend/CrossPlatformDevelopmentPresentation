@@ -60,8 +60,11 @@ namespace Magic8BallAndroid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int buttonRoll = 2131034113;
+			
 			// aapt resource value: 0x7f050000
-			public const int myButton = 2131034112;
+			public const int textViewPhrase = 2131034112;
 			
 			static Id()
 			{
@@ -96,7 +99,7 @@ namespace Magic8BallAndroid
 			public const int app_name = 2130968577;
 			
 			// aapt resource value: 0x7f040000
-			public const int hello = 2130968576;
+			public const int roll = 2130968576;
 			
 			static String()
 			{

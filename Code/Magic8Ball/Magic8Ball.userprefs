@@ -1,1 +1,15 @@
-﻿<Properties StartupItem="Magic8BallAndroid/Magic8BallAndroid.csproj" />
+﻿<Properties StartupItem="Magic8BallAndroid/Magic8BallAndroid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0073b09d9849b2b8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Magic8BallAndroid/MainActivity.cs">
+    <Files>
+      <File FileName="Magic8Ball/Magic8Ball.cs" Line="4" Column="4" />
+      <File FileName="Magic8BallAndroid/MainActivity.cs" Line="17" Column="17" />
+      <File FileName="Magic8BallAndroid/Resources/values/Strings.xml" Line="26" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Magic8BallAndroid MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
