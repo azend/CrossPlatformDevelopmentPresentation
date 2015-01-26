@@ -15,3 +15,4 @@
 /Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/uploadflags.txt
 /Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/Magic8BallAndroid.dll
 /Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/Magic8BallAndroid.dll.mdb
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BallAndroid/obj/Debug/res/drawable-mdpi/magic8ball.jpg
