@@ -1,0 +1,15 @@
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPhone.storyboardc/Info.plist
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPhone.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPhone.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPad.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPad.storyboardc/Info.plist
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPad.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/bin/iPhoneSimulator/Debug/Magic8BalliOS.exe.mdb
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/bin/iPhoneSimulator/Debug/Magic8BalliOS.exe
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/Magic8BalliOS.exe
+/Users/azend/Dropbox/ThirdYear/PROG3125-15W-Sec1-Advanced Technology Topics/Presentation1/Code/Magic8Ball/Magic8BalliOS/obj/iPhoneSimulator/Debug/Magic8BalliOS.exe.mdb
